@@ -30,7 +30,7 @@ Technologies Used:
 •	Log4j
 
 
-	@@ -28,29 +42,42 @@ Technologies Used:
+
 Features:
 
 •	As a user, I can login.
@@ -65,4 +65,7 @@ In order to see this project in action, you will need a few things:
 2.	Be sure to have the Java 8 runtime environment installed.
 
 If both of the pre-requisites above are met, go ahead and clone this repo by using the below command:
-git clone
+git clone https://github.com/MounikaAre585/Project1.git
+Once cloned, copy the .war file located within the /target directory and paste it into your tomcat webapps folder.
+
+•	Used AWS cloud service as S3 bucket.
