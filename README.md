@@ -73,3 +73,6 @@ git clone https://github.com/MounikaAre585/Project1.git
 Once cloned, copy the .war file located within the /target directory and paste it into your tomcat webapps folder.
 
 •	Used AWS cloud service as S3 bucket.
+
+Contributor: Are Mounika
+
